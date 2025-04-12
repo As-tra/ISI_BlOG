@@ -18,7 +18,7 @@
 <body>
     <?php include_once "includes/header.php"; ?>
     <section class="hero">
-        <h1>About</h1>
+        <h1>Contact</h1>
     </section>
 
     <?php include_once 'includes/footer.php'; ?>
